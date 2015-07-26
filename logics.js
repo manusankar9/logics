@@ -1,4 +1,4 @@
-WElcome to Logics
+Welcome to Logics
 ------------------
 
 <!DOCTYPE html><html lang = "en-US"><head>
